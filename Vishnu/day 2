@@ -1,1 +1,185 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio</title>
+    <style>
+        body{
+            background: coral;
+        }
+             .one{
+                border:groove;
+                border-radius: 25px;
+                padding: 20px;
+                background-color: bisque;
+                display: flex;
+             }
+             .second{
+                border:groove;
+                border-radius: 25px;
+                padding: 20px;
+                 background-color:rgb(224, 224, 120);
+                 display: flex;
+                 } 
+                 .third{
+                border:groove;
+                border-radius: 25px;
+                padding: 20px;
+                 background-color: rgb(44, 191, 199); 
+                 display: flex;
+                 }
+                 .four{
+                border:groove;
+                border-radius: 25px;
+                padding: 20px;
+                 background-color: rgb(95, 120, 21);
+                 display: flex;
+                 
+                 }
+                 .five{
+                border:groove;
+                border-radius: 25px;
+                padding: 20px;
+                 background-color: rgb(211, 42, 152);
+                 display: flex;
+                 }
+                 .six{
+                border:groove;
+                border-radius: 25px;
+                padding: 20px;
+                 background-color: rgb(96, 71, 236);
+                 display: flex;
+                 }
+    </style>
+</head>
+<body>
+    <h1 style="color:rgb(2, 2, 34); text-align: center;"><em>MUSIC</em></h1>
+
+   
+     <section class="music">
+         <div class="one">
+    <p>
+          <img src="https://tse3.mm.bing.net/th/id/OIP.oebwMdWMn89IJSwEOQuv5AHaE8?pid=Api&P=0&h=180" width="350" height="250">
+          <a href="https://masstamilan.my/song/dheema"><button>more</button></a></p>
+           <p>
+            Singer : Vignesh Shivan, Anirudh Ravichander<br>
+      Music Director : Anirudh Ravichander<br>
+Lyricist : Vignesh Shivan <br>
+Label : Sony Music Entertainment India Pvt. Ltd.<br>
+Duration : 03:55</p> 
+            
+      <audio controls>
+         <source src="/deema.mp3" type="audio/mpeg"> 
+         
+        </audio>
+    </div>
+        
+    <div class="second">
+        <p>
+          <img src="https://filmfare.wwmindia.com/content/2025/aug/naniparadisethuuuu1754637766.jpg" width="350" height="250">
+          <a href="https://masstamilan.my/song/aaya-sher-from-the-paradise-telugu"><button>more</button></a></p>
+          <p>
+            Singer : Kasarla Shyam, Anirudh Ravichander, Jangi Reddy, Arjun Chandy<br>
+Music Director : Anirudh Ravichander, Jangi Reddy, Arjun Chandy, Kasarla Shyam<br>
+Lyricist : Kasarla Shyam<br>
+Label : SaReGaMA India Ltd<br>
+Duration : 04:46
+          </p>
+
+      <audio controls>
+         <source src="/Aaya Sher.mp3" type="audio/mpeg"> 
+        
+        </audio>
+    </div>
+<br><hr><br>
+    </section>
+
+     <section class="music">
+        
+    <div class="third">
+        <p>
+          <img src="https://tse4.mm.bing.net/th/id/OIP.KgBnm358O8Qd63s9Akpu8QHaEK?pid=Api&P=0&h=180" width="350" height="250">
+          <a href="https://masstamilan.my/song/neelothi"><button>more</button></a></p>
+       <p>
+        Singer : Sooraj Santhosh, Chinmayi Sripada, Justin Prabhakaran, Sarathi<br>
+Music Director : Sooraj Santhosh, Chinmayi Sripada, Justin Prabhakaran, Sarathi<br>
+Lyricist : Justin Prabhakaran, Sarathi, Karthik Netha<br>
+Label : Seven Screen Studio<br>
+Duration : 04:34
+       </p>
+      <audio controls>
+         <source src="/Neelothi.mp3" type="audio/mpeg"> 
+         
+          Your browser does not support the audio element. 
+        </audio>
+    </div>
+
+    </section>
+    <br><hr> <br>
+     <section class="music">
+        
+    <div class="four">
+        <p>
+          <img src="https://tse3.mm.bing.net/th/id/OIP.pZKXk6rp2yQbFgCOsr1QcwHaE8?pid=Api&P=0&h=180" width="350" height="250">
+          <a href="https://masstamilan.my/ringtone/ghajini-love-bgm-ringtone-tamil-bgm"><button>more</button></a></p>
+          <p>
+            Category : Tamil Ringtones<br>
+Duration : 0:26<br>
+Format : MP3 (Android) / M4R (iPhone)<br>
+Quality : High Quality
+          </p>
+      <audio controls>
+         <source src="/Ghajini.mp3" type="audio/mpeg"> 
+         
+          Your browser does not support the audio element. 
+        </audio>
+    </div>
+
+    </section>
+    <br><hr> <br>
+     <section class="music">
+        
+    <div class="five">
+        <p>
+          <img src="https://tse4.mm.bing.net/th/id/OIP.cUBbW7urZSzR07TyxZeKugHaEK?pid=Api&P=0&h=180" width="350" height="250">
+          <a href="https://masstamilan.my/album/love-today-mp3-album"><button>more</button></a></p>
+           <p>
+            Music Director : Yuvan Shankar Raja<br>
+           Total Tracks : 5<br>
+                Released : 2022<br>
+Added : July 06, 2026
+           </p>
+       
+      <audio controls>
+         <source src="/love today.mp3" type="audio/mpeg"> 
+        </audio>
+        
+    </div>
+
+    </section> 
+    <br><hr><br>
+    <section class="music">
+        <div class="six">
+            <p>
+          <img src="https://tse1.mm.bing.net/th/id/OIP.2PVaRfKpO0n6q10KQLvyZgHaEK?pid=Api&P=0&h=180" width="350" height="250">
+          <a href="https://masstamilan.my/song/nesamaguren"><button>more</button></a>
+         
+           </p>
+          <p>
+            Singer : Stephen Zechariah <br>
+            Music Director : Stephen Zechariah<br>
+             Lyricist : T. Suriavelan, Jaya Rathakrishnan<br>
+             Duration : 04:23
+        </p>
+        <p>
+      <audio controls>
+         <source src="/nesamaguren.mp3" type="audio/mpeg"> 
+        </audio>
+        </p>
+    
+
+    </section>
+</body>
+</html>
